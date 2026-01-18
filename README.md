@@ -1,11 +1,10 @@
 # <p align="center"> <b> :man_dancing: WaiWai :dancer: </b> </p>
 ### <p align="center"> <i> A stylish prompt for shy merrymakers </i> </p>
 
-<video src="https://github.com/user-attachments/assets/13fb5b6c-a3d0-4e2e-84e1-85c75596e7bd" loop autoplay>
-  Your browser does not support the video tag.
-</video>
+![preview](https://github.com/user-attachments/assets/182dbce3-648c-4c5c-9811-3555b51252e9)
 
-### Meet *WaiWai* - a minimal zsh theme that'll greet you with a cute random emoji each time you open a new terminal session :3
+### <p align="center"> Meet *WaiWai* - a minimal zsh theme that'll greet you with a cute random emoji each time you open a new terminal session </p>
+### <p align="center"> ✧⁺⋆♡⋆⁺✧ </p>
 
 ## 🪇 Features
 
@@ -36,5 +35,12 @@ ZSH_THEME="waiwai"
 
 ## 👒 Inspirations
 
-- 🍺 [Bira](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme) • *basic layout*
-- 💩 [Random emoji](https://gist.github.com/oshybystyi/2c30543cd48b2c9ecab0) • *core idea*
+- 🍺 [Bira](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme)
+
+  *basic layout*
+  
+- 💩 [Random emoji](https://gist.github.com/oshybystyi/2c30543cd48b2c9ecab0)
+
+  *core idea*
+
+### <p align="center"> <b> 𓆩♡𓆪 </b> </p>
